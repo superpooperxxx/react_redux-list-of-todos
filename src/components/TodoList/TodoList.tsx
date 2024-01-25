@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/control-has-associated-label */
 /* eslint-disable max-len */
 import React from 'react';
 import { useAppDispatch, useAppSelector } from '../../app/hooks';
